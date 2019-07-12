@@ -1,7 +1,7 @@
-Waarp Persistence Deps
-=======================
+Waarp Parent
+=============
 
-You will find in this web site the sub project Waarp Persistence Deps.
+You will find in this web site the sub project Waarp Parent.
 
 The global license is GPL V3.
 
